@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm Nanle Luke, a software engineer based in New York City. I specialize in building scalable, high-performance web and mobile applications using technologies such as React, React Native, and Node.js.<br><br>I have a strong background in computer science and have completed coursework in algorithms, data structures, and software engineering. In my previous roles, I have worked on projects for clients in various industries, including healthcare, finance, and e-commerce.<br><br>In my free time, I enjoy staying up to date with the latest developments in the tech industry and working on personal projects. I am also an avid reader and enjoy spending time outdoors.<br><br>Thank you for visiting my profile. I'm always open to discussing new opportunities and collaborating with like-minded individuals. Feel free to reach out to me on LinkedIn or send me an email at [your email address] if you'd like to connect.<br><br><br><br>
+Hi! I'm Nanle Luke, a software engineer based in Abuja Nigeria. I specialize in building scalable, high-performance web and mobile applications using technologies such as React, React Native, and Node.js.<br><br>I have a strong background in computer science and have completed coursework in algorithms, data structures, and software engineering. In my previous roles, I have worked on projects for clients in various industries, including healthcare, finance, and e-commerce.<br><br>In my free time, I enjoy staying up to date with the latest developments in the tech industry and working on personal projects. I am also an avid reader and enjoy spending time outdoors.<br><br>Thank you for visiting my profile. I'm always open to discussing new opportunities and collaborating with like-minded individuals. Feel free to reach out to me on LinkedIn or send me an email at [your email address] if you'd like to connect.<br><br><br><br>
 
 
 ## 🌐 Socials:
@@ -17,9 +17,6 @@ Hi! I'm Nanle Luke, a software engineer based in New York City. I specialize in 
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=nanle21&icon=0&color=0)](https://visitcount.itsvg.in)
