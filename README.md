@@ -81,11 +81,6 @@ I also use AI-assisted design tools (**Stitch**, **Lovable**) to rapidly prototy
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=nanle21&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-
 ## ✍️ Latest Writing
 
 - 📖 [Building Tabspire: How I Created a Chrome Extension That Transforms New Tabs Into Moments of Inspiration](https://medium.com/@nanlepaul)
