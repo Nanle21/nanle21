@@ -84,7 +84,6 @@ I also use AI-assisted design tools (**Stitch**, **Lovable**) to rapidly prototy
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=nanle21&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=nanle21&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nanle21&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
