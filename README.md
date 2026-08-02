@@ -7,183 +7,127 @@
 
 ---
 
-# 💫 About Me
+## 💫 About Me
 
-I'm a **Senior Software Engineer, Technical Leader, and Product Founder** based in **Abuja, Nigeria**, with over **10 years of software engineering experience** building secure, scalable digital platforms across **HealthTech, GovTech, FinTech, AI, and Enterprise SaaS**.
+I'm a **Senior Software Engineer & Technical Leader** based in **Abuja, Nigeria**, with **10+ years of experience** building scalable, high-impact digital platforms across **digital health**, **government systems**, **enterprise SaaS**, **fintech**, and **consumer applications**.
 
-I enjoy building products from idea to production—designing architecture, leading engineering teams, and delivering software used by governments, businesses, and thousands of end users.
+I specialize in full-stack and mobile development — **React, React Native, Node.js, Django, PostgreSQL, and AI-powered applications** — and I'm passionate about using technology to solve real-world problems at scale.
 
-Currently, I serve as **Senior Coordinator of Software Engineering at eHealth Africa**, where I lead engineering initiatives that support national public health programs, digitize immunization records, improve supply chain visibility, and strengthen healthcare delivery across Nigeria.
+Currently, I serve as **Senior Coordinator of Software Engineering at eHealth Africa**, where I lead development of platforms that have **digitized millions of immunization records**, improved healthcare logistics, and strengthened supply chain visibility across Nigerian health facilities.
 
-Alongside my work, I founded **NanleTech**, where we're building products focused on helping African organizations modernize how they work.
+As **Founder & CEO of [NanleTech](https://nanletech.com)**, I lead development of enterprise and consumer products including:
+
+* ☁️ **Bokiti** — An enterprise productivity platform featuring secure file storage, email, meetings, workspace management, and AI-powered collaboration tools for organizations.
+* 🌾 **NiFMIS** — Nigeria's National Farmer Management Information System, built in partnership with the **National Bureau of Statistics** and the **Tony Blair Institute for Global Change**.
+* 💰 **Finanza** — An intuitive expense management and budgeting platform.
+* ✨ **Tabspire** — A Chrome extension that transforms new tabs into moments of inspiration.
+
+I have also contributed to digital transformation initiatives supporting the **Office of the Vice President of Nigeria (OVP)** through the development of secure enterprise software and modern digital solutions.
+
+> 🏆 **NASA SpaceApps Challenge** — 1st Place (State Level) · 3rd Place (National Level)
 
 ---
 
-# 🚀 What I'm Building
+## 🚀 What I've Been Building
 
-## ☁️ Bokiti
+| Project                  | Description                                                                                                 | Stack                                            |
+| ------------------------ | ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------ |
+| **Bokiti**               | Enterprise productivity platform with Drive, Mail, Meet, Workspace Management, and AI-powered collaboration | React, Django, PostgreSQL, MinIO, AI             |
+| **OVP Digital Platform** | Secure enterprise platform supporting digital operations and collaboration within government institutions   | React, Django, PostgreSQL                        |
+| **LoMIS**                | Real-time logistics management system replacing paper supply chains in health facilities                    | React, React Native, Django, PostgreSQL, LLM API |
+| **PlanFeld**             | Mobile & web application for planning and coordinating public health field interventions                    | React Native, React                              |
+| **EmID**                 | Digitized immunization and health record management platform                                                | React, Django                                    |
+| **NiFMIS**               | Nigeria's National Farmer Management Information System                                                     | Django, PostgreSQL                               |
+| **Finanza**              | Expense management & budgeting platform                                                                     | React Native, Node.js                            |
+| **Tabspire**             | Chrome Extension for productivity and inspiration                                                           | JavaScript, Chrome APIs                          |
 
-**Bokiti** is an enterprise productivity platform designed for organizations that need secure collaboration, document management, communication, and AI-powered workflows.
+---
+
+## ☁️ Building Bokiti
+
+**Bokiti** is a modern enterprise productivity platform built to help African organizations collaborate, communicate, and manage information securely.
 
 Current products include:
 
 * 📁 Bokiti Drive
 * 📧 Bokiti Mail
 * 🎥 Bokiti Meet
-* 👥 Multi-tenant Workspace Management
-* 🔐 Enterprise Identity & Authentication
+* 👥 Multi-Workspace Management
+* 🔐 Enterprise Authentication & Identity
 * 🤖 AI-powered productivity experiences
 
-Bokiti is being built as a modern business operating system for African organizations.
+The long-term vision is to build an integrated business operating system that enables organizations to manage communication, collaboration, documents, workflows, and AI from a single platform.
 
 ---
 
-## 🏛️ OVP
+## 🤖 Latest: AI Integration
 
-One of my recent projects is the **Office of the Vice President (OVP) Digital Platform**, built to modernize internal operations and improve digital service delivery.
+I recently integrated an **LLM-powered chatbot into LoMIS**, enabling field health workers to query real-time logistics and supply chain data using natural language. This involved prompt architecture design, backend API integration, and streaming response implementation for low-latency experiences in field environments.
 
-The platform focuses on secure enterprise workflows, document management, collaboration, and operational efficiency for government institutions.
+Beyond healthcare, I'm also building AI capabilities into **Bokiti**, including intelligent enterprise search, document understanding, workflow automation, and AI-powered productivity experiences.
 
----
-
-## 🌾 NiFMIS
-
-Built in partnership with the **National Bureau of Statistics (NBS)** and the **Tony Blair Institute for Global Change**, NiFMIS is Nigeria's national Farmer Management Information System used for managing farmer registration and agricultural data.
+I also use AI-assisted design tools (**Stitch**, **Lovable**) to rapidly prototype interfaces from user stories—bridging the gap between product requirements and implementation without requiring a dedicated designer.
 
 ---
 
-## 💰 Finanza
-
-A modern expense management and budgeting platform designed to help individuals and businesses gain better visibility into their finances.
-
----
-
-## ✨ Tabspire
-
-A Chrome Extension that transforms every new browser tab into moments of inspiration using Scripture, productivity tools, and beautiful experiences.
-
----
-
-# 🤖 AI Engineering
-
-I actively build AI-powered applications using Large Language Models and modern AI tooling.
-
-Recent work includes:
-
-* AI chatbot integration for healthcare logistics
-* Enterprise Retrieval-Augmented Generation (RAG)
-* AI-assisted document workflows
-* Intelligent enterprise search
-* Streaming LLM APIs
-* Prompt engineering
-* AI-assisted UI generation using Stitch and Lovable
-
-I'm particularly interested in making AI practical for African businesses rather than building demos.
-
----
-
-# 💼 Featured Projects
-
-| Project                  | Description                                                 | Technologies                         |
-| ------------------------ | ----------------------------------------------------------- | ------------------------------------ |
-| **Bokiti**               | Enterprise productivity platform for organizations          | Django, React, PostgreSQL, MinIO, AI |
-| **OVP Digital Platform** | Government enterprise platform for operational digitization | React, Django, PostgreSQL            |
-| **LoMIS**                | Logistics management platform for public health             | React, React Native, Django          |
-| **EmID**                 | Digital immunization and health records                     | React, Django                        |
-| **PlanFeld**             | Planning and coordination platform for field interventions  | React Native                         |
-| **NiFMIS**               | National Farmer Management Information System               | Django, PostgreSQL                   |
-| **Finanza**              | Personal finance and budgeting application                  | React Native, Node.js                |
-| **Tabspire**             | Chrome Extension                                            | JavaScript                           |
-
----
-
-# 🛠 Tech Stack
+## 💻 Tech Stack
 
 ### Frontend
 
-* React
-* Next.js
-* TypeScript
-* Vue.js
-* HTML5
-* SCSS
-* Bootstrap
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge\&logo=react\&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge\&logo=typescript\&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge\&logo=vuedotjs\&logoColor=%234FC08D)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge\&logo=next.js\&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge\&logo=SASS\&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge\&logo=bootstrap\&logoColor=white)
 
 ### Mobile
 
-* React Native
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge\&logo=react\&logoColor=%2361DAFB)
 
 ### Backend
 
-* Django
-* Python
-* Node.js
-* NestJS
-* Laravel
-* GraphQL
-* PHP
-
-### Databases
-
-* PostgreSQL
-* MySQL
-* MariaDB
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge\&logo=nestjs\&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge\&logo=django\&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge\&logo=laravel\&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge\&logo=graphql\&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge\&logo=php\&logoColor=white)
 
 ### Cloud & DevOps
 
-* Docker
-* DigitalOcean
-* Google Cloud
-* Cloudflare
-* Firebase
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge\&logo=digitalOcean\&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge\&logo=google-cloud\&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge\&logo=firebase)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge\&logo=Cloudflare\&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge\&logo=docker\&logoColor=white)
 
-### AI
+### Tools
 
-* OpenAI APIs
-* LLM Integration
-* RAG
-* Prompt Engineering
-* AI Workflow Automation
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge\&logo=figma\&logoColor=white)
 
 ---
 
-# 🏆 Highlights
+## ✍️ Latest Writing
 
-* 🥇 NASA Space Apps Challenge — State Winner
-* 🥉 NASA Space Apps Challenge — National 3rd Place
-* 👨‍💻 10+ Years of Software Engineering Experience
-* 🏥 Engineering leadership in national HealthTech initiatives
-* 🚀 Founder building enterprise SaaS products for Africa
+* 📖 Building Tabspire: How I Created a Chrome Extension That Transforms New Tabs Into Moments of Inspiration
+* 🐳 Docker: What, Why and When
 
 ---
 
-# ✍️ Writing
+## 📬 Let's Connect
 
-* Building Tabspire
-* Docker: What, Why and When
-* Software Engineering & Product Development articles on Medium
+I'm open to **Senior Software Engineering**, **Staff Engineer**, **Technical Lead**, **Engineering Manager**, **HealthTech**, **GovTech**, **AI Engineering**, and **remote opportunities**.
 
----
-
-# 📬 Let's Connect
-
-I'm interested in:
-
-* Senior Software Engineering roles
-* Staff/Principal Engineering opportunities
-* Engineering Management
-* Technical Leadership
-* AI Platform Engineering
-* HealthTech & GovTech
-* Enterprise SaaS
-* Remote opportunities
-
-📧 **Email:** [paulnanle611@gmail.com](mailto:paulnanle611@gmail.com)
+📧 **Email:** **[paulnanle611@gmail.com](mailto:paulnanle611@gmail.com)**
 
 🔗 **LinkedIn:** https://www.linkedin.com/in/nanle-luke/
 
-🌍 **Website:** https://nanletech.com
+🌐 **Website:** https://nanletech.com
 
 ---
 
-![](https://visitcount.itsvg.in/api?id=nanle21\&icon=0\&color=0)
+[![](https://visitcount.itsvg.in/api?id=nanle21\&icon=0\&color=0)](https://visitcount.itsvg.in)
