@@ -122,7 +122,7 @@ I also use AI-assisted design tools (**Stitch**, **Lovable**) to rapidly prototy
 
 I'm open to **Senior Software Engineering**, **Staff Engineer**, **Technical Lead**, **Engineering Manager**, **HealthTech**, **GovTech**, **AI Engineering**, and **remote opportunities**.
 
-📧 **Email:** **[paulnanle611@gmail.com](mailto:paulnanle611@gmail.com)**
+📧 **Email:** **[nanle.luke@nanletech.com](mailto:nanle.luke@nanletech.com)**
 
 🔗 **LinkedIn:** https://www.linkedin.com/in/nanle-luke/
 
